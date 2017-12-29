@@ -1,11 +1,4 @@
-
-puts "Welcome to the Self Design Learning Foundation!  We are looking forward to joining you on your educational journey.  To complete the first step of your enrolment process, please answer the following questions:"
-
-puts "What is your legal first name? "
-f_name = gets.chomp.capitalize
-
-puts "What is your legal last name? "
-l_name = gets.chomp.capitalize
+BOOM A CHANGE
 
 puts "Please enter your home phone number (Ex. XXX-XXX-XXXX): "
 phone = gets.chomp
