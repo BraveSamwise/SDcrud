@@ -1,3 +1,0 @@
-Name	Phone	Email	Review	Notes
-Connor Lucas	250-218-5510	curly_connor@hotmail.com	Reviewed: no	Notes: 
-Dustin Thomas	250-334-0200	dusty_dude@yahoo.ca	Reviewed: no	Notes: 
